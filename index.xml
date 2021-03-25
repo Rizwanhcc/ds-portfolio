@@ -19,14 +19,13 @@
     </item>
     
     <item>
-      <title>Project 2: Predicting Stock Market Returns using Time series models</title>
+      <title>Project 2: Dog Breed Classifier with Convolutional Neural Network</title>
       <link>https://rizwanhcc.github.io/ds-portfolio/post/project-2/</link>
       <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
       
       <guid>https://rizwanhcc.github.io/ds-portfolio/post/project-2/</guid>
-      <description>In this study I attempted to forecast and analyzed stock market returns and risk of highest market capitalization and lowest market capitalization companies.
-  I used an open sourced freely available data for that purpose, it can be accessed from Kaggle as well as from the official website of the Kenneth R. French:
-  This data starts from 1927 upto 2018 and includes top and low 10, 20, 30 and 40 portfolios.</description>
+      <description>In this project we will be dealing with the development of an algorithm to predict the dog breed by taking user provided images as input. This project takes central place in learning Artificial Intelligence domain. Since it deals with a very complex task i.e., the identification of the dog breed. The classification problem such as classifying human or dog is somewhat easy as compared to classification problems that deal with identifying dog breed and human race. The latter problem requires complex algorithms, careful analysis and huge amount of training data.
+</description>
     </item>
     
     <item>
